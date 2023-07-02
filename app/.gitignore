@@ -1,0 +1,16 @@
+build/
+local.properties
+*.iml
+.gradle/
+.idea/
+
+*.log
+.DS_Store
+*.idea/
+
+app/build/
+captures/
+
+*.swp
+*~
+*.tmp
